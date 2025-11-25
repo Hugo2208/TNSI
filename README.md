@@ -1,2 +1,2 @@
 # TNSI
-Terminale NSI
+Terminale NSI Linux
