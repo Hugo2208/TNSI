@@ -31,13 +31,13 @@ echo -e "Fin d'installation des utilitaires...\n\n\n\v"
 git config --global user.name "Hugo2208"
 
 #modifier l'email avec votre "email" github
-git config --global user.email "patrice.nicolas7@monlycee.net"
+git config --global user.email "hugo.delande78790@gmail.com"
 
 git config --global --list
 
 #cle ssh
 #modifier l'email avec votre "email" github
-ssh-keygen -t ed25519 -C "patrice.nicolas7@monlycee.net"
+ssh-keygen -t ed25519 -C "hugo.delande78790@gmail.com"
 ####FIN de Config git#####
 
 
